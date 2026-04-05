@@ -47,7 +47,8 @@ Metatron allows you to export scan results into clean, shareable report formats 
 [<p align="center">
   <img src="screenshots/main_menu.png" alt="Main Menu" width="700"/>
   <br><i>Main Menu</i>
-</p>]https://github.com/star-boy999/STAR-BOY/blob/main/main_menu.png?raw=true
+</p>]
+
 <p align="center">
   <img src="screenshots/scan_running.png" alt="Scan Running" width="700"/>
   <br><i>Recon tools running on target</i>
